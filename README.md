@@ -1,6 +1,6 @@
 # EntityFrameworkMongoDB
 
-
+Este é um {c:red}texto vermelho.{/c}
 ```using System;
 using System.Collections.Generic;
 using System.Linq;
