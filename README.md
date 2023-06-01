@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
 using MongoDB.Driver;
 
-namespace SuaAplicacao
+namespace EntityFrameworkMongoDB
 {
     public class Program
     {
