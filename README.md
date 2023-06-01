@@ -14,7 +14,7 @@ namespace EntityFrameworkMongoDB
     {
         public static void Main(string[] args)
         {
-           ´´´´ // Configurações de conexão com bancos de dados
+           // Configurações de conexão com bancos de dados
             string sqlServerConnectionString = "sua-string-de-conexao-do-SQL-Server";
             string mongoDBConnectionString = "sua-string-de-conexao-do-MongoDB";
 
