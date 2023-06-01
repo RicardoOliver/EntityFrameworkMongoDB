@@ -1,5 +1,6 @@
 # EntityFrameworkMongoDB
 
+
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -8,13 +9,14 @@ using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
 using MongoDB.Driver;
 
-namespace EntityFrameworkMongoDB
+namespace SuaAplicacao
 {
     public class Program
     {
         public static void Main(string[] args)
         {
-           // Configurações de conexão com bancos de dados
+            
+            // Configurações de conexão com bancos de dados
             string sqlServerConnectionString = "sua-string-de-conexao-do-SQL-Server";
             string mongoDBConnectionString = "sua-string-de-conexao-do-MongoDB";
 
@@ -82,4 +84,3 @@ namespace EntityFrameworkMongoDB
         // Outros DbSets...
     }
 }
-
