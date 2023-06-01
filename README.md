@@ -83,4 +83,4 @@ namespace SuaAplicacao
         public DbSet<Customer> Customers { get; set; }
         // Outros DbSets...
     }
-}```
+}
