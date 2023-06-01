@@ -44,9 +44,7 @@ namespace EntityFrameworkMongoDB
                 Console.WriteLine(document.Name);
             }
 
-            // Outras tarefas do desenvolvedor backend sênior, como integração com Azure DevOps, CI/CD, microserviços, TDD, DDD, Clean Code, etc.
-
-            Console.ReadLine();
+           Console.ReadLine();
         }
     }
 
