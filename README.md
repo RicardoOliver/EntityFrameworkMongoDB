@@ -1,6 +1,7 @@
 # EntityFrameworkMongoDB
 
-Este é um {c:red}texto vermelho.{/c}
+O código fornecido é um exemplo básico de uma aplicação em C# que ilustra o uso do Entity Framework para acesso a um banco de dados SQL Server e do driver do MongoDB para acesso a um banco de dados MongoDB.
+
 ```using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -88,4 +89,4 @@ namespace EntityFrameworkMongoDB
 
 
 
-{c:red}O código fornecido é um exemplo básico de uma aplicação em C# que ilustra o uso do Entity Framework para acesso a um banco de dados SQL Server e do driver do MongoDB para acesso a um banco de dados MongoDB.{/c}
+
