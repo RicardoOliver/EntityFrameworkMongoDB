@@ -88,4 +88,4 @@ namespace EntityFrameworkMongoDB
 
 
 
-+ O código fornecido é um exemplo básico de uma aplicação em C# que ilustra o uso do Entity Framework para acesso a um banco de dados SQL Server e do driver do MongoDB para acesso a um banco de dados MongoDB.
+{c:red}O código fornecido é um exemplo básico de uma aplicação em C# que ilustra o uso do Entity Framework para acesso a um banco de dados SQL Server e do driver do MongoDB para acesso a um banco de dados MongoDB.{/c}
