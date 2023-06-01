@@ -2,7 +2,8 @@
 
 O código fornecido é um exemplo básico de uma aplicação em C# que ilustra o uso do Entity Framework para acesso a um banco de dados SQL Server e do driver do MongoDB para acesso a um banco de dados MongoDB.
 
-```using System;
+```java
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
